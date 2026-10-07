@@ -23,40 +23,40 @@
 /> 
 <img 
     aling= "left"
-    alt= "C"
-    title= "C"
+    alt= "Haskell"
+    title= "Haskell"
     width= "30px"
     style= "padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"  
 /> 
 <img 
     aling= "left"
-    alt= "C"
-    title= "C"
+    alt= "css"
+    title= "css"
     width= "30px"
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"   
 /> 
  <img 
     aling= "left"
-    alt= "C"
-    title= "C"
+    alt= "html"
+    title= "html"
     width= "30px"
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    
 /> 
 <img 
     aling= "left"
-    alt= "C"
-    title= "C"
+    alt= "Github"
+    title= "Github"
     width= "30px"
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  
 />
    <img 
     aling= "left"
-    alt= "C"
-    title= "C"
+    alt= "VScode"
+    title= "VScode"
     width= "30px"
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  
